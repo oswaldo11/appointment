@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../client/app/admin/admin.module.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,OAAO,CAAC,MAAM,CAAC,sBAAsB,EAAE,CACrC,qBAAqB,EACrB,WAAW,CACZ,CAAC,CAAC","file":"admin.module.js","sourcesContent":["'use strict';\n\nangular.module('eventsMongoApp.admin', [\n  'eventsMongoApp.auth',\n  'ui.router'\n]);\n"]}
